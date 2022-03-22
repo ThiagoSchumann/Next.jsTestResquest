@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "follow-redirects": "^1.14.9",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
+  }
+}
